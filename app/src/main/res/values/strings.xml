@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">AppExercicios</string>
-    <string name="title_activity_teste">teste</string>
+    <string-array name="operadorasCelular">
+        <item>OP1</item>
+        <item>OP2</item>
+        <item>OP3</item>
+    </string-array>
 </resources>
