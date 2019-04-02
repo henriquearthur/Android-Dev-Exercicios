@@ -5,4 +5,32 @@
         <item>OP2</item>
         <item>OP3</item>
     </string-array>
+
+    <string-array name="planetas">
+        <item>Mercúrio</item>
+        <item>Vênus</item>
+        <item>Marte</item>
+        <item>Júpiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+    </string-array>
+
+    <string-array name="animais_1">
+        <item>Vertebrado</item>
+        <item>Invertebrado</item>
+    </string-array>
+
+    <string-array name="animais_2">
+        <item>Ave</item>
+        <item>Mamífero</item>
+        <item>Inseto</item>
+        <item>Anelídeo</item>
+    </string-array>
+
+    <string-array name="animais_3">
+        <item>Carnívoro</item>
+        <item>Onívoro</item>
+        <item>Herbívoro</item>
+        <item>Hematofago</item>
+    </string-array>
 </resources>

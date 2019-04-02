@@ -49,6 +49,11 @@ public class CalcularLigacao extends AppCompatActivity {
         }
 
         double valorLigacao = segLigacao * valorPorSegundo;
+
+        if (valorLigacao < 0.0) {
+            valorLigacao = 0.0;
+        }
+
         resultadoValorLigacaoWidget.setText("O valor da ligação é de R$" + valorLigacao);
 
 

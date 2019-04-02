@@ -9,7 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.unama.calcularligacao.CalcularLigacao"></activity>
+        <activity android:name="com.unama.descontorestaurante.DescontoRestaurante"></activity>
+        <activity android:name="com.unama.categorianadador.CategoriaNadador" />
+        <activity android:name="com.unama.calculonota.CalculoNota" />
+        <activity android:name="com.unama.escolhaanimais.EscolhaAnimais" />
+        <activity android:name="com.unama.calculovalory.CalculoValorY" />
+        <activity android:name="com.unama.calculopesoplaneta.CalculoPesoPlaneta" />
+        <activity android:name="com.unama.calcularligacao.CalcularLigacao" />
         <activity android:name="com.unama.pesoideal.PesoIdeal" />
         <activity android:name=".MainActivity">
             <intent-filter>
